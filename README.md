@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=I+build+systems+that+scale+%F0%9F%9A%80;Microservices+%26+E-Commerce+Architecture;AI+Engineering+on+the+side+%F0%9F%A4%96;Let's+build+something+great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=I+build+systems+that+scale+%F0%9F%9A%80;Microservices+Architecture;AI+Engineering+on+the+side+%F0%9F%A4%96;Let's+build+something+great!)](https://git.io/typing-svg)
 
 </div>
 
