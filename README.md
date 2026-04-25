@@ -87,13 +87,14 @@ const facu = {
 
 ## 🚀 Fun Projects
 
+### 🦮 [Retriever](https://github.com/facumarcet/retriever)
+> Retriever is a local RAG (Retrieval-Augmented Generation) pipeline for your personal notes. Instead of dumping your entire vault into a prompt and hoping for the best, it does what a good retriever does — fetches only what's relevant.
+
+You ask: "What was I working on last week?" It finds the right chunks from the right notes, builds context, and answers — citing exactly which files it used.
+
 ### 🤖 [Claudio CLI](https://github.com/facumarcet/claudio-cli)
 
 > A CLI tool born from my curiosity about AI Engineering.
-
-[![GitHub stars](https://img.shields.io/github/stars/facumarcet/claudio-cli?style=social)](https://github.com/facumarcet/claudio-cli)
-[![GitHub forks](https://img.shields.io/github/forks/facumarcet/claudio-cli?style=social)](https://github.com/facumarcet/claudio-cli)
-
 ---
 <!--
 ## 📊 GitHub Stats
