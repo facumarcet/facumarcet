@@ -87,6 +87,9 @@ const facu = {
 
 ## 🚀 Fun Projects
 
+### archpane (claude code plugin)
+A live architecture diagram in a side pane of Claude Code. Ask Claude to diagram a system and it draws it in a pane next to the chat, then keeps it current while you talk. You can click into components, ask about them, and watch a build plan go from planned to done. The diagram never gets buried in the transcript.
+
 ### 🦮 [Retriever](https://github.com/facumarcet/retriever)
 Retriever is a local RAG (Retrieval-Augmented Generation) pipeline for your personal notes. Instead of dumping your entire vault into a prompt and hoping for the best, it does what a good retriever does — fetches only what's relevant.
 
