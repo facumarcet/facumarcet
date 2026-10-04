@@ -87,7 +87,7 @@ const facu = {
 
 ## 🚀 Fun Projects
 
-### archpane (claude code plugin)
+### [archpane](https://github.com/facumarcet/archpane) (claude code plugin)
 A live architecture diagram in a side pane of Claude Code. Ask Claude to diagram a system and it draws it in a pane next to the chat, then keeps it current while you talk. You can click into components, ask about them, and watch a build plan go from planned to done. The diagram never gets buried in the transcript.
 
 ### 🦮 [Retriever](https://github.com/facumarcet/retriever)
